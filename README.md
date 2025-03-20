@@ -4,7 +4,7 @@
 
 
 ### 우리들 사진
-<img src="C:\Users\joong\Documents\School\bird-thumbnail.jpg" width="320" height="240" />
+<img src="https://static.remove.bg/sample-gallery/graphics/bird-thumbnail.jpg" width="320" height="240" />
 <img src="image/2.jpg" width="320" height="240" />
 
 ### 뱃지 넣는 방법
